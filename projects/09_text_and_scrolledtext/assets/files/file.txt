@@ -1,0 +1,3 @@
+¡Bienvenido a nuestro editor de texto!
+
+Este es un ejemplo de texto resaltado.

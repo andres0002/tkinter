@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole main.py --add-data "file_name.py;."
